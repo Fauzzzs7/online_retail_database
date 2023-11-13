@@ -1,0 +1,11 @@
+INSERT INTO pelanggan (id, nama, telepon, email ,alamat) VALUES
+(1, 'John Doe', '+123456789', 'john.doe@gmail.com', 'Jl. Yogyakarta No. 123'),
+(2, 'Jane Doe', '987654321', 'jane.doe@gmail.com', 'Jl. Yogyakarta No. 456'),
+(3, 'Customer ABC', '+987654321', 'customer@gmail.com', 'Jl. Yogyakarta No. 789'),
+(4, 'Motor Enthusiast', '+111222333', 'motor@gmail.com', 'Jl. Yogyakarta No. 1011'),
+(5, 'Shoe Shopper', '+444555666', 'shoes@gmail.com', 'Jl. Yogyakarta No. 1213'),
+(6, 'Health Enthusiast', '123123123', 'health@gmail.com', 'Jl. Yogyakarta No. 1415'),
+(7, 'Fashion Lover', '+777888999', 'fashion@gmail.com', 'Jl. Yogyakarta No. 1617'),
+(8, 'Bag Collector', '555444333', 'bag@gmail.com', 'Jl. Yogyakarta No. 1819'),
+(9, 'Toy Collector', '+999000111', 'toys@gmail.com', 'Jl. Yogyakarta No. 2021'),
+(10, 'Home Maker', '666777888', 'home@gmail.com', 'Jl. Yogyakarta No. 2223');

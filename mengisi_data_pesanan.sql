@@ -1,0 +1,11 @@
+INSERT INTO pesanan (id, nama_pesanan, total_pesanan, telepon, email, alamat,tanggal_pesan, id_pelanggan ) VALUES 
+(1, 'John Doe', 1500.00, '+123456789', 'john.doe@gmail.com.com', 'Jl. Yogyakarta No. 123', '2023-11-13', 1),
+(2, 'Jane Doe', 800.00, '987654321', 'jane.doe@gmail.com.com', 'Jl. Yogyakarta No. 456', '2023-11-14', 2),
+(3, 'Customer ABC', 1200.00, '+987654321', 'customer@gmail.com.com', 'Jl. Yogyakarta No. 789', '2023-11-15', 3),
+(4, 'Motor Enthusiast', 3000.00, '+111222333', 'motor@gmail.com.com', 'Jl. Yogyakarta No. 1011', '2023-11-16', 4),
+(5, 'Shoe Shopper', 100.00, '+444555666', 'shoes@gmail.com.com', 'Jl. Yogyakarta No. 1213', '2023-11-17', 5),
+(6, 'Health Enthusiast', 50.00, '123123123', 'health@gmail.com.com', 'Jl. Yogyakarta No. 1415', '2023-11-18', 6),
+(7, 'Fashion Lover', 200.00, '+777888999', 'fashion@gmail.com.com', 'Jl. Yogyakarta No. 1617', '2023-11-19', 7),
+(8, 'Bag Collector', 120.00, '555444333', 'bag@gmail.com.com', 'Jl. Yogyakarta No. 1819', '2023-11-20', 8),
+(9, 'Toy Collector', 30.00, '+999000111', 'toys@gmail.com.com', 'Jl. Yogyakarta No. 2021', '2023-11-21', 9),
+(10, 'Home Maker', 250.00, '666777888', 'home@gmail.com.com', 'Jl. Yogyakarta No. 2223', '2023-11-22', 10);

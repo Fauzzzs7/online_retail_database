@@ -1,0 +1,9 @@
+create table detail_pesanan (
+id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+id_pesanan INT,
+id_produk INT,
+harga FLOAT NOT NULL,
+
+FOREIGN KEY (id_pesanan) REFERENCES pesanan(id) ON DELETE RESTRICT ON UPDATE RESTRICT,
+FOREIGN KEY (id_produk) REFERENCES produk(id) ON DELETE RESTRICT ON UPDATE RESTRICT
+);
